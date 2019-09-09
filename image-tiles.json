@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Carl",
+        "image": "/public/carl.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Frylock",
+        "image": "/public/frylock.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "FryLockBraces",
+        "image": "/public/frylockbraces.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Gang",
+        "image": "/public/gang.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "HandBanana",
+        "image": "/public/handbanana.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "HungerForceIRL",
+        "image": "/public/hungerforceirl.png",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "MentalCarl",
+        "image": "/public/mentalcarl.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Shake",
+        "image": "/public/shake.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "ShowLogo",
+        "image": "/public/showlogo.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "TubChilling",
+        "image": "/public/tubchilling.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "wad",
+        "image": "/public/wad.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "wadmarine",
+        "image": "/public/wadmarine.jpg",
+        "count": 0
+    }
+]

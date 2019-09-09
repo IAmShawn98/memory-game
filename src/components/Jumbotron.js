@@ -10,7 +10,7 @@ function Jumbotron() {
       <div className="jumbotron bg text-white text-center">
         <div className="container">
           {/* JSX Jumbotron Content */}
-          <h1 className="display-3 font-weight-bold mb-5">Clicky Game!</h1>
+          <h1 className="display-3 font-weight-bold mb-5">Clicky Memory Game</h1>
           {/* JSX Game Description */}
           <p className="lead">
             Welcome to the clicky memory game! Your objective is to click on any of the

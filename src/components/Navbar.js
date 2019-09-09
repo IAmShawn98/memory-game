@@ -11,7 +11,7 @@ function Navbar() {
                 {/* JSX Navbar Brand */}
                 <div className="container-fluid ml-5">
                     <a className="navbar-brand" href="#">
-                        <h2 className="display-4 font-weight-bold text-white">Clicky <i className="animated pulse infinite fa fa-hand-pointer-o" aria-hidden="true"></i> Game</h2>
+                        <h2 className="display-4 font-weight-bold text-white">Clicky <i className="animated pulse infinite fa fa-hand-pointer-o" aria-hidden="true"></i> Game!</h2>
                     </a>
                 </div>
                 {/* JSX Navbar Middle Piece? Yeah, Let's Go With That! (Gives Space Between Navbar Brand and Points) */}

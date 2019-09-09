@@ -16,3 +16,8 @@
     background-color: #cccccc;
     border-radius: 0 !important;
 }
+
+.img-thumbnail {
+    width: 80%;
+    height: 50%;
+}

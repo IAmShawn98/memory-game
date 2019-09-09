@@ -5,18 +5,20 @@ function Jumbotron() {
     <div>
       <div className="jumbotron bg text-white text-center">
         <div className="container">
-          <h1 className="display-3 font-weight-bold">Clicky Game!</h1>
-          <h2 className="mt-3">Objective:</h2>
+          <h1 className="display-3 font-weight-bold mb-5">Clicky Game!</h1>
           <p className="lead">
-            Start by clickking on any of the images below, and doing so will grant you a point.
-            Don't click on any image more than once however, that restarts your point counter.
-            Do your best and rank up that top score value, good luck!
+            Welcome to the clicky memory game! Your objective is to click on any of the
+            tiles containing images, memorizing which image you clicked on. Avoid
+            clicking the same images more than once, otherwise you will be penalized
+            and loose all of your points. Rack up points by clicking on as many
+            unique images as possible, and secure the highest top score, good luck!
             </p>
           <div className="container pl-5 mt-3">
             <ul className="navbar-nav">
               <li className="nav-item active">
+                <p class="lead font-weight-bold text-info p-0 m-0">Reset Game Session</p>
                 <a className="nav-link text-white" href="#"><h2 className="display-5 text-white">
-                  <i id="restartIcon" className="fa fa-refresh"></i>
+                  <i id="restartIcon" className="fa fa-refresh text-info"></i>
                 </h2>
                 </a>
               </li>

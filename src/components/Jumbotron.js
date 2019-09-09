@@ -24,7 +24,7 @@ function Jumbotron() {
             <ul className="navbar-nav">
               <li className="nav-item active">
                 {/* JSX Icon Describer */}
-                <p class="lead font-weight-bold text-info p-0 m-0">Reset Game Session</p>
+                <p className="lead font-weight-bold text-info p-0 m-0">Reset Game Session</p>
                 <a className="nav-link text-white" href="#"><h2 className="display-5 text-white">
                   <i id="restartIcon" className="fa fa-refresh text-info"></i>
                 </h2>
